@@ -1,0 +1,9 @@
+[submodule "plugins/ipynb"]
+	path = plugins/ipynb
+	url = git://github.com/danielfrg/pelican-ipynb.git
+[submodule "content/Basic-Neural-Network"]
+	path = content/Basic-Neural-Network
+	url = https://github.com/avvineed/Basic-Neural-Network.git
+[submodule "content/Convolutional-neural-network-Numpy"]
+	path = content/Convolutional-neural-network-Numpy
+	url = https://github.com/avvineed/Convolutional-neural-network-Numpy.git
