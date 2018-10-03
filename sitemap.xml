@@ -4,175 +4,175 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<lastmod>2018-10-03T22:55:27-00:00</lastmod>
+<loc>https://avvineed.github.io/</loc>
+<lastmod>2018-10-03T23:21:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/archives.html</loc>
-<lastmod>2018-10-03T22:55:27-00:00</lastmod>
+<loc>https://avvineed.github.io/archives.html</loc>
+<lastmod>2018-10-03T23:21:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tags.html</loc>
-<lastmod>2018-10-03T22:55:27-00:00</lastmod>
+<loc>https://avvineed.github.io/tags.html</loc>
+<lastmod>2018-10-03T23:21:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<lastmod>2018-10-03T22:55:27-00:00</lastmod>
+<loc>https://avvineed.github.io/categories.html</loc>
+<lastmod>2018-10-03T23:21:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/pages/about.html</loc>
+<loc>https://avvineed.github.io/pages/about.html</loc>
 <lastmod>2018-09-30T11:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/pages/contact.html</loc>
+<loc>https://avvineed.github.io/pages/contact.html</loc>
 <lastmod>2018-09-30T11:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/convolutional-neural-network-numpy.html</loc>
+<loc>https://avvineed.github.io/convolutional-neural-network-numpy.html</loc>
 <lastmod>2018-09-30T20:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/basic-neural-network.html</loc>
+<loc>https://avvineed.github.io/basic-neural-network.html</loc>
 <lastmod>2018-09-22T20:00:00+05:30</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/category/deeplearning.html</loc>
+<loc>https://avvineed.github.io/category/deeplearning.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/numpy.html</loc>
+<loc>https://avvineed.github.io/tag/numpy.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/convolutional-neural-networks.html</loc>
+<loc>https://avvineed.github.io/tag/convolutional-neural-networks.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/convnet.html</loc>
+<loc>https://avvineed.github.io/tag/convnet.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/cnn.html</loc>
+<loc>https://avvineed.github.io/tag/cnn.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/python.html</loc>
+<loc>https://avvineed.github.io/tag/python.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/computer-vision.html</loc>
+<loc>https://avvineed.github.io/tag/computer-vision.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/data-science.html</loc>
+<loc>https://avvineed.github.io/tag/data-science.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/relu.html</loc>
+<loc>https://avvineed.github.io/tag/relu.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/relu-layer.html</loc>
+<loc>https://avvineed.github.io/tag/relu-layer.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/convolution.html</loc>
+<loc>https://avvineed.github.io/tag/convolution.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/conv-layer.html</loc>
+<loc>https://avvineed.github.io/tag/conv-layer.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/filter.html</loc>
+<loc>https://avvineed.github.io/tag/filter.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/backpropagation.html</loc>
+<loc>https://avvineed.github.io/tag/backpropagation.html</loc>
 <lastmod>2018-09-22T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/nuralnetwork.html</loc>
+<loc>https://avvineed.github.io/tag/nuralnetwork.html</loc>
 <lastmod>2018-09-22T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tag/basic-neural-network.html</loc>
+<loc>https://avvineed.github.io/tag/basic-neural-network.html</loc>
 <lastmod>2018-09-22T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/author/vineed-arukattil.html</loc>
+<loc>https://avvineed.github.io/author/vineed-arukattil.html</loc>
 <lastmod>2018-09-30T20:00:00+05:53</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.6</priority>
