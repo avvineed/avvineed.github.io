@@ -1,5 +1,7 @@
 env_path : "C:\Users\Vineed\Envs\whimsymind\Scripts\activate"
 resume : "https://github.com/suheb/resume"
 multilpe_them : https://stackoverflow.com/questions/29691258/how-do-i-use-more-than-one-pelican-theme-simultaneously
-blog: https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/
+blog: https://www.dataquest.io/blog/how-to-setup-a-data-science-blog/ https://staticman.net/docs/
 theme: https://github.com/alexandrevicenzi/Flex/
+build : pelican content
+run : python -m pelican.server

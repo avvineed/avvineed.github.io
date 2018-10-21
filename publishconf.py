@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://avvineed.github.io'
+SITEURL = 'https://avvineed.com'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = None

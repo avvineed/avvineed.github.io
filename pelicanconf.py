@@ -3,11 +3,11 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Vineed A'
-SITENAME = "Vineed's Blog"
+SITENAME = "Vineed's (avvineed) Blog"
 SITEURL = 'http://localhost:8000'
 SITETITLE = AUTHOR
 SITESUBTITLE = 'Software Engineer'
-SITEDESCRIPTION = '%s\'s Thoughts and Writings' % AUTHOR
+SITEDESCRIPTION = '%s\'s (avvineed) Thoughts and Writings' % AUTHOR
 SITELOGO = '/img/VA.png'
 
 FAVICON = '/img/favicon.ico'
@@ -45,7 +45,6 @@ HOME_HIDE_TAGS = True
 # Social widget
 SOCIAL = (('linkedin', 'https://www.linkedin.com/in/avineed/'),
           ('github', 'https://github.com/avvineed'),
-          ('google', 'http://google.com/+VineedArukattilWhimsy'),
           ('twitter', 'https://twitter.com/WhimsyMind'))
 
 MENUITEMS = (('Archives', '/archives.html'),
